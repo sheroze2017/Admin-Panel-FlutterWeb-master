@@ -4,9 +4,6 @@ import 'package:flutter/material.dart';
 import 'package:fl_chart/fl_chart.dart';
 import 'package:admin_panel/pages/products/products.dart';
 import 'package:admin_panel/pages/clients/widgets/clients_table.dart';
-import 'package:admin_panel/pages/autoshow/autoshow.dart';
-import 'package:admin_panel/pages/bookticket/bookticket.dart';
-import 'package:get/get_state_manager/src/rx_flutter/rx_obx_widget.dart';
 
 class OverviewPage extends StatelessWidget {
   final DoctorController doctorsController = DoctorController();
