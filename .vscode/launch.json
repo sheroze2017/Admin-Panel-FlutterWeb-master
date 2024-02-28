@@ -1,0 +1,19 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+      {
+          "name": "Flutter Web Chrome Debug",
+          "request": "launch",
+          "type": "dart",
+          "program": "lib/main.dart",
+          "args": [
+              "--web-renderer",
+              "html"
+          ],
+          "flutterMode": "debug",
+          "deviceName": "Chrome",
+          "args": ["--web-browser-flag=--disable-web-security"],
+          "cwd": "${workspaceFolder}"
+      }
+  ]
+}

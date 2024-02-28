@@ -1,0 +1,9 @@
+2024/02/28-20:49:06.929 2694 Reusing MANIFEST C:\Users\Bilal\AppData\Local\Temp\flutter_tools.f7a2920e\flutter_tools_chrome_device.ba8cb1c1\Default\shared_proto_db/MANIFEST-000001
+2024/02/28-20:49:06.931 2694 Recovering log #4
+2024/02/28-20:49:06.933 2694 (ignoring error) C:\Users\Bilal\AppData\Local\Temp\flutter_tools.f7a2920e\flutter_tools_chrome_device.ba8cb1c1\Default\shared_proto_db/000004.log: dropping 21052 bytes; Corruption: checksum mismatch
+2024/02/28-20:49:06.933 2694 (ignoring error) C:\Users\Bilal\AppData\Local\Temp\flutter_tools.f7a2920e\flutter_tools_chrome_device.ba8cb1c1\Default\shared_proto_db/000004.log: dropping 175 bytes; Corruption: missing start of fragmented record(2)
+2024/02/28-20:49:06.934 2694 Reusing old log C:\Users\Bilal\AppData\Local\Temp\flutter_tools.f7a2920e\flutter_tools_chrome_device.ba8cb1c1\Default\shared_proto_db/000004.log 
+2024/02/28-20:49:06.941 2694 Delete type=0 #3
+2024/02/28-20:49:24.499 3e40 Level-0 table #8: started
+2024/02/28-20:49:24.520 3e40 Level-0 table #8: 137638 bytes OK
+2024/02/28-20:49:24.527 3e40 Delete type=0 #4
